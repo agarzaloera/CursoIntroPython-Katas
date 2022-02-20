@@ -27,11 +27,11 @@
 ## 9. Usando errno
 ![image](https://github.com/agarzaloera/CursoIntroPython-Katas/blob/main/capturas/capturas-modulo-10/9-usando-errno.png)
 
-## 10. Generación de excepciones
+## 10. Generación de excepciones - Creando la función
 ![image](https://github.com/agarzaloera/CursoIntroPython-Katas/blob/main/capturas/capturas-modulo-10/10-generacion-de-excepciones-1.png)
 
-## 11. Generación de excepciones
+## 11. Generación de excepciones - Agregando excepción para el error y número negativo
 ![image](https://github.com/agarzaloera/CursoIntroPython-Katas/blob/main/capturas/capturas-modulo-10/11-generacion-de-excepciones-2.png)
 
-## 12. Generación de excepciones
+## 12. Generación de excepciones - Agregando excepción cuando se utilizan argumentos no enteros
 ![image](https://github.com/agarzaloera/CursoIntroPython-Katas/blob/main/capturas/capturas-modulo-10/12-generacion-de-excepciones-3.png)
